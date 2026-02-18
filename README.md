@@ -3,15 +3,16 @@
 ![Version](https://img.shields.io/badge/version-1.0.0-green.svg)
 ![Status](https://img.shields.io/badge/status-stable-brightgreen.svg)
 ![Platform](https://img.shields.io/badge/platform-Windows-blue.svg)
-<img width="1918" height="1142" alt="3" src="https://github.com/user-attachments/assets/bb9d06f4-7a24-4d17-b8c0-365337dc8e98" />
 
 **Шторм** (Storm) is an advanced utility suite designed to centralize system management, optimization, and security into a single, powerful interface.
+<img width="1918" height="1142" alt="3" src="https://github.com/user-attachments/assets/bb9d06f4-7a24-4d17-b8c0-365337dc8e98" />
 
 ### 🚀 Why choose Шторм?
 * **Raw Performance:** Optimized for instant execution with zero CPU lag.
 * **Intuitive UI:** Clean and sleek design for immediate accessibility.
 * **All-in-One:** Over 20 integrated utilities for system and network management.
 * **Discrete & Lightweight:** Minimal resource footprint for maximum efficiency.
+<img width="1918" height="1142" alt="1" src="https://github.com/user-attachments/assets/92efac38-2196-4d70-bdd5-ee76d2c9535e" />
 
 ### 🛡️ Antivirus & Bloatware Removal
 **Note:** Because Шторм deeply optimizes Windows and disables system **bloatware** (telemetry, useless background services, and tracking), it may be flagged as a **False Positive** by your antivirus.
