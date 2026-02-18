@@ -3,6 +3,7 @@
 ![Version](https://img.shields.io/badge/version-1.0.0-green.svg)
 ![Status](https://img.shields.io/badge/status-stable-brightgreen.svg)
 ![Platform](https://img.shields.io/badge/platform-Windows-blue.svg)
+<img width="1918" height="1142" alt="3" src="https://github.com/user-attachments/assets/bb9d06f4-7a24-4d17-b8c0-365337dc8e98" />
 
 **Шторм** (Storm) is an advanced utility suite designed to centralize system management, optimization, and security into a single, powerful interface.
 
